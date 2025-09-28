@@ -8,7 +8,7 @@ dune build
 ```
 
 ## Usage
-bs_cli price|greeks call|put S K r t sigma [--theta-per-day]\
+bs_cli price|greeks call|put S K r t sigma [--theta-per-day]
 
 price|greeks: Mode
 call|put: Option kind
