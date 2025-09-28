@@ -21,8 +21,8 @@ sigma: annual volatility (e.g. 0.2 = 20%)
 --theta-per-day: optional flag for daily theta, default is yearly  
 
 # Greeks  
-Delta - Change in contract price per 1.00 change in underlying price  
-Gamma - Change in delta per 1.00 change in underlying price  
-Vega - Change in contract price per 1.00 change in volatility (i.e., per 1.00 = 100% vol)  
-Theta - Change in contract price per 1 year passage of time  
-Rho - Change in contract price per 1.00 change in risk-free rate  
+Delta: Change in contract price per 1.00 change in underlying price  
+Gamma Change in delta per 1.00 change in underlying price  
+Vega: Change in contract price per 1.00 change in volatility (i.e., per 1.00 = 100% vol)  
+Theta: Change in contract price per 1 year passage of time  
+Rho: Change in contract price per 1.00 change in risk-free rate  
