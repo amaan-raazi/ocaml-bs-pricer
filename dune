@@ -1,0 +1,8 @@
+(library
+ (name bs)
+ (modules bs))
+
+(executable
+ (name bs_cli)
+ (modules bs_cli)
+ (libraries bs))
